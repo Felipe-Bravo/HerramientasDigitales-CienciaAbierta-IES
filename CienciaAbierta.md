@@ -18,3 +18,5 @@ Los datos abiertos enlazados  (llamados, por su acrónimo en inglés, LOD-Linked
  ![Fig. 1 Escala de 5 estrellas propuesto por Tim Berner-Lee para los datos abiertos enalzados](https://5stardata.info/images/5-star-steps.png)
  
 Fig. 1 Escala de 5 estrellas propuesto por Tim Berner-Lee para los datos abiertos enalzados
+
+Sigue a [anotación de árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/AnotacionArboles.md)
