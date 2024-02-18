@@ -18,9 +18,13 @@ Fig. 3 Aplicación [EducaWood](https://educawood.gsic.uva.es) tal y como se ve e
 Una vez dentro de la aplicación nos aparecerá una pantalla (fig. 4) en la que podremos navegar (botones que aparecen abajo a la izquierda), ver los árboles del Inventario Forestal Nacional, superponer las capa de imágenes de satélite (obtenida de las que ofrece en abierto ESRI), hacer una visita guiada para entender el funcionamiento de la aplicación, descargar los datos definiendo el polígono del cuál queremos descargar los datos y centrar la imagen en nuestra localización actual (a partir de la localización del dispositivo que estemos usando).
 Pulsando en el icono del árbol que podemos ver abajo a la izquierda de la pantalla (fig 5.) y podremos incluir la información requerida del árbol que pretendemos anotar: localización, nombre o apodo, taxón (nombre científico o vulgar), estado del árbol (vivo, en decaimiento, muerto, …), incluir fotos, medida del diámetro y de la altura y comentarios adicionales. Para anotar el árbol no hace falta añadir toda esta información in situ sino que se puede completar más tarde. Para las mediciones de los árboles se puede utilizar un dispositivo sencillo como el dendroflexómetro  que es fácil de construir y de usar.
 
+ ![Pantalla de EducaWood donde se ven a la izquierda los botones que nos permiten navegar en la aplicación ](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-mapa.png)
  
 Fig. 4 Pantalla de EducaWood donde se ven a la izquierda los botones que nos permiten navegar en la aplicación (versión ordenador)
 
- 	 
+
+ 	 ![Pantalla de EducaWood para anotar árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-iesJorgeManrique.png)
+    ![Pantalla de EducaWood para anotar árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-iesJorgeManrique.png)
 Fig. 5. Pantalla de EducaWood para anotar árboles: inicio de la anotación (izquierda) y datos requeridos (derecha) en la versión de dispositivo móvil (una vez se ha indicado la localización del árbol)
+
 
