@@ -17,6 +17,8 @@
 4.	[Anotación de árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/AnotacionArboles.md)
 5.	El Inventario Forestal y el Mapa Forestal Nacional
 6.	Casos de uso
-    a.	¿Cuánto carbono fija este bosque
+   
+    a.	¿Cuánto carbono fija este bosque?
+  	
     b.	¿Cuál es la altura de este árbol si solo puedo medir su diámetro?
 
