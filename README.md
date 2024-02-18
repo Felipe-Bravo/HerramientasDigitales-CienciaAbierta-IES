@@ -8,12 +8,15 @@
 ## Estructura
 
 1.	[Introducción](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/introduccion)
-2.	Ciencia abierta
+2.	[Ciencia abierta[(https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/CienciaAbierta.md)
+   
     a.	¿Qué es?
+  	
     b.	Datos abiertos y enlazados
-3.	Anotación de árboles
-4.	El Inventario Forestal y el Mapa Forestal Nacional
-5.	Casos de uso
+  	
+4.	[Anotación de árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/AnotacionArboles.md)
+5.	El Inventario Forestal y el Mapa Forestal Nacional
+6.	Casos de uso
     a.	¿Cuánto carbono fija este bosque
     b.	¿Cuál es la altura de este árbol si solo puedo medir su diámetro?
 
