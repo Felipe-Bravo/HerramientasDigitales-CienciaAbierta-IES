@@ -31,4 +31,4 @@ Fig. 4 Pantalla de EducaWood donde se ven a la izquierda los botones que nos per
     
 Fig. 5b. Pantalla de EducaWood para anotar árboles los datos requeridos (derecha) en la versión de dispositivo móvil (una vez se ha indicado la localización del árbol)
 
-
+Sigue a [el Inventario Forestal y el Mapa Forestal Nacional](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/InventarioMapaForestal.md)
