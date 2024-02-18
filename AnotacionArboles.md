@@ -4,10 +4,15 @@ Mediante la anotación de árboles podemos generar una base de datos de árboles
 
 
 ![Aplicación EducaWood (https://educawood.gsic.uva.es) tal y como se ve en un dispositivo móvil](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-movil.png)) 	
+
 Fig. 2 Aplicación [EducaWood](https://educawood.gsic.uva.es) tal y como se ve en un dispositivo móvil 
 
 
+
+
  ![Aplicación EducaWood (https://educawood.gsic.uva.es) ttal y como se ve en el ordenador](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-ordenador.png)
+
+ 
 Fig. 3 Aplicación [EducaWood](https://educawood.gsic.uva.es) tal y como se ve en el ordenador 
 
 Una vez dentro de la aplicación nos aparecerá una pantalla (fig. 4) en la que podremos navegar (botones que aparecen abajo a la izquierda), ver los árboles del Inventario Forestal Nacional, superponer las capa de imágenes de satélite (obtenida de las que ofrece en abierto ESRI), hacer una visita guiada para entender el funcionamiento de la aplicación, descargar los datos definiendo el polígono del cuál queremos descargar los datos y centrar la imagen en nuestra localización actual (a partir de la localización del dispositivo que estemos usando).
