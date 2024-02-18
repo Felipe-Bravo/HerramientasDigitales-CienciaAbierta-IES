@@ -23,10 +23,12 @@ Pulsando en el icono del árbol que podemos ver abajo a la izquierda de la panta
 Fig. 4 Pantalla de EducaWood donde se ven a la izquierda los botones que nos permiten navegar en la aplicación (versión ordenador)
 
 
- 	 ![Pantalla de EducaWood para anotar árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-iesJorgeManrique.png)
+ ![Pantalla de EducaWood para anotar árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-iesJorgeManrique.png)
+   
    Fig. 5a. Pantalla de EducaWood para anotar árboles: inicio de la anotación en la versión de dispositivo móvil 
    
-    ![Pantalla de EducaWood para anotar árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-anota.png)
+ ![Pantalla de EducaWood para anotar árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/imagenes/EducaWood-anota.png)
+    
 Fig. 5b. Pantalla de EducaWood para anotar árboles los datos requeridos (derecha) en la versión de dispositivo móvil (una vez se ha indicado la localización del árbol)
 
 
