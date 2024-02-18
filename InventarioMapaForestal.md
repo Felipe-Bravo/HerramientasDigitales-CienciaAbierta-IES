@@ -8,3 +8,5 @@ El conocimiento del estado de los bosques es fundamental para poder evaluar la c
 Fig. 6. Pantalla inicial de ForestExplorer desde donde se pueden explorar los datos de los inventarios forestales nacionales y del mapa forestal. La búsqueda puede hacerse por municipios y por especies (tanto por nombre vulgar como por nombre científico)
 
 Las búsquedas en ForestExplorer no requieren identificación del usuario y permiten conocer tanto la abundancia de las especies como las posibles mezclas así como la biomasa presente en los diferentes tipos de bosques.
+
+Sigue a [casos de uso](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/CasosUso.md)
