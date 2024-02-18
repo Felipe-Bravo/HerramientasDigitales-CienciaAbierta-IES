@@ -23,6 +23,8 @@
     b.	¿Cuál es la altura de este árbol si solo puedo medir su diámetro?
 
 
+--------
+
 En este seminario se presentan ejemplos, ideas y resultados de los siguientes proyectos financiados por la Consejería de Educación (Junta de Castilla y León), Ministerio de Ciencia, Innovación y Universidades (Gobierno de España) y la Unión Europea:
 
 • LOD-for.trees
