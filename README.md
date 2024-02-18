@@ -8,7 +8,7 @@
 ## Estructura
 
 1.	[Introducción](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/introduccion)
-2.	[Ciencia abierta[(https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/CienciaAbierta.md)
+2.	[Ciencia abierta](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/CienciaAbierta.md)
    
     a.	¿Qué es?
   	
