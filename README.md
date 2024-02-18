@@ -7,7 +7,7 @@
 
 ## Estructura
 
-1.	[Introducción](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/introduccion)
+1.	[Introducción](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/introduccion)
 2.	Ciencia abierta
     a.	¿Qué es?
     b.	Datos abiertos y enlazados
