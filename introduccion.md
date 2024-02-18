@@ -14,4 +14,6 @@ En este seminario se presentan ejemplos, ideas y resultados de los siguientes pr
 •	Virtual Forests
 
 A continuación, vamos a presentar el concepto de ciencia abierta, un método para anotar árboles siguiendo los principios de los datos abiertos enlazados, una forma de consultar datos sobre el estado de los bosques españoles y portugueses y dos casos de uso en el aula.
+Además del texto interactivo de este repositorio GitHub existe un [documento pdf]
+(https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/2024_HerramientasDigitales-CienciaAbierta-iesJorgeManrique.pdf) donde está todo el ejercicio.
 
