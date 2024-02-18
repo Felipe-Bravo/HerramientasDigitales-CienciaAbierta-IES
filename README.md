@@ -1,6 +1,6 @@
 # HERRAMIENTAS DIGITALES Y CIENCIA ABIERTA PARA LA ENSEÑANZA SECUNDARIA
 ### Felipe Bravo Oviedo
-### SMART Ecosystems – iuFOR - Universidad de Valladolid (campus de Palencia)
+### SMART Ecosystems – [iuFOR](https://iufor.uva.es/) - Universidad de Valladolid (campus de Palencia)
 ### Seminario para profesores del IES Jorge Manrique (Palencia) 
 ### HERRAMIENTAS DIGITALES APLICADAS EN LOS LABORATORIO DEL ÁREA DE CIENCIAS
 ### 19 de febrero de 2024
