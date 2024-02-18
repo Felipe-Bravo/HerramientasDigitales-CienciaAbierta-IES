@@ -2,7 +2,7 @@
 ### Felipe Bravo Oviedo
 ### SMART Ecosystems – iuFOR - Universidad de Valladolid (campus de Palencia)
 ### Seminario para profesores del IES Jorge Manrique (Palencia) 
-### programa HERRAMIENTAS DIGITALES APLICADAS EN LOS LABORATORIO DEL ÁREA DE CIENCIAS
+### HERRAMIENTAS DIGITALES APLICADAS EN LOS LABORATORIO DEL ÁREA DE CIENCIAS
 ### 19 de febrero de 2024
 
 ## Estructura
