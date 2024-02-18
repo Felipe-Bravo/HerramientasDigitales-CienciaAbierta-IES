@@ -15,8 +15,8 @@
     b.	Datos abiertos y enlazados
   	
 4.	[Anotación de árboles](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/AnotacionArboles.md)
-5.	El Inventario Forestal y el Mapa Forestal Nacional
-6.	Casos de uso
+5.	[El Inventario Forestal y el Mapa Forestal Nacional](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/InventarioMapaForestal.md)
+6.	[Casos de uso](https://github.com/Felipe-Bravo/HerramientasDigitales-CienciaAbierta-IES/blob/master/CasosUso.md)
    
     a.	¿Cuánto carbono fija este bosque?
   	
